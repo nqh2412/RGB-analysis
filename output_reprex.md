@@ -69,7 +69,7 @@ img_rois %>%
 ![](https://i.imgur.com/ifg8UGD.png)
 
 ``` r
-
+# Separate ROIs and save it to 7 images
 
 im
 #> Image. Width: 746 pix Height: 265 pix Depth: 1 Colour channels: 3
